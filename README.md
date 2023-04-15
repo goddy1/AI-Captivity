@@ -1,6 +1,8 @@
 # AI-Captivity
 Creating an ethical and safe AI
 
+![alt text](https://github.com/goddy1/AI-Captivity/Titelbild.png?raw=true)
+
 The project aims to work out how to put an AI in a safe ethical state without restricting it too much.
 First, the boundary conditions and parameters should be worked out.
 What makes an AI safe?
